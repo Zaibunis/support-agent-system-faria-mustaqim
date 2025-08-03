@@ -64,6 +64,7 @@ Ask your question (e.g., "I want a refund.")
 
 ---------------------------------------------------------------
 
-**Build with ❤ by (Faria Mustaqim)[https://github.com/Zaibunis]**
+**Build with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)**
+
 
 
