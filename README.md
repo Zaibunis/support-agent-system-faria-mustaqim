@@ -40,8 +40,8 @@ Simulate a real-world support flow with agent handoffs, context sharing, and con
 
 ## 🚀 Usage
 
-1. Install dependencies:
-2. 
+1. Setup Commands:
+
 ```bash
 uv init project-name
 cd project-name
@@ -65,4 +65,5 @@ Ask your question (e.g., "I want a refund.")
 ---------------------------------------------------------------
 
 **Build with ❤ by (Faria Mustaqim)[https://github.com/Zaibunis]**
+
 
